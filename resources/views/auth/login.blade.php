@@ -68,7 +68,7 @@
                             </div>
                         </div>
                         <div onselectstart="return false" class="footer" >
-                            Desenvolvido por: Carlos | Massao | Cleyton
+                            Desenvolvido por: Carlos Barbosa | Massao Mitsunaga | Cleyton Anderson
                         </div>
                     </div>
                 </div>
