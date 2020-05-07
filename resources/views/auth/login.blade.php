@@ -76,4 +76,3 @@
     </section>
     </div>
 @endsection
-;; pyplot

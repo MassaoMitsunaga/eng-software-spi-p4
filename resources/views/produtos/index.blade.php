@@ -71,8 +71,8 @@
                             <td>{{$produto->descricao}}</td>
                             <td>{{($produto->estoque == true) ? 'Sim' : 'Não'}}</td>
                             <td>
-                                <a href="{{route('edit', $produto->id)}}"><i class="fas fa-edit edit"></i></a>
-                                <a href="{{route('show', $produto->id)}}"><i class="fas fa-eye delete"></i></a>
+                                <a href="{{route('edit', $produto->id)}}"><em class="fas fa-edit edit"></em></a>
+                                <a href="{{route('show', $produto->id)}}"><em class="fas fa-eye delete"></em></a>
                             </td>
                         </tr>
                     @endforeach
