@@ -1,0 +1,77 @@
+html {
+    height: 100%
+}
+
+body {
+    height: 100%;
+}
+
+.envolve {
+    width: 35%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    border: 1px solid #f1a64ceb;
+    border-radius: 5px;
+    position: relative;
+    top: 40%;
+    transform: translateY(-50%);
+}
+
+.botao-cancelar {
+    width: 110px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #e72f2feb;
+    color: white !important;
+}
+
+.title {
+    text-align: center;
+    font-size: 24px;
+    background-color: #f1a64ceb;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.produto {
+    float: left;
+    padding-left: 70px;
+    font-size: 25px;
+}
+
+.deletar {
+
+}
+
+.produto-delete {
+    height: 120px;
+    padding-top: 30px;
+    display: flex;
+}
+
+#botao {
+    background-color: #17a2b8;
+    color: white;
+    border: none;
+    border-radius: 7px;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    padding-right: 1em;
+    padding-left: 1em;
+    width: 110px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.botoes-delete-wrapper {
+    display: flex;
+    margin-left: auto
+}
+
+.cancelar-wrapper {
+    margin-left: auto;
+    margin-right: 70px;
+    padding-left: 15px
+}

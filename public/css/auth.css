@@ -1,0 +1,195 @@
+body {
+    font-family: 'Open Sans', sans-serif !important;
+}
+
+label {
+    font-weight: normal !important;
+}
+
+h4 {
+    margin-top: 0 !important;
+    margin-bottom: 20px !important;
+}
+
+img {
+    z-index: 100;
+}
+
+canvas {
+    z-index: 0 !important;
+}
+
+.logo-main {
+    width: 25%;
+    height: 25%;
+    margin-top: 7px;
+    margin-right: 15px;
+    margin-left: 12px;
+}
+
+.traz-pra-frente {
+    z-index: 1;
+}
+
+.header-cadastro {
+    padding-top: 10px;
+    font-weight: bold;
+    color: #4a4a4a;
+    text-align: center;
+}
+
+.cabecalho {
+    display: flex;
+}
+
+.logo {
+    float: right;
+    width: 54px;
+    margin-top: -16px;
+    margin-right: -5px;
+}
+
+.nav {
+    display: flex;
+}
+
+.row {
+    display: unset !important;
+}
+
+.container {
+    width: inherit !important;
+    padding-left: unset !important;
+    padding-right: unset !important;
+}
+
+.panel-heading {
+    padding: 0 !important;
+}
+
+.navbar {
+    background-color: #17a2b8!important;
+}
+
+.navbar-brand {
+    color: white !important;
+}
+
+.float-right {
+    float: right;
+}
+
+.titulo-login {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.btn-primary {
+    color: #ffffff !important;
+    background-color: #17a2b8 !important;
+}
+
+.btn-primary:hover {
+    background-color: #188da4 !important;
+}
+
+.divisor {
+    height: 30px;
+    display:block;
+}
+
+.margin-bottom {
+    margin-bottom: 12px !important;
+}
+
+.margin-top-login {
+    margin-top: 40px;
+}
+
+a {
+    color: #17a2b8 !important;
+}
+
+html,body {
+    height: 100%;
+}
+
+body.my-login-page {
+    background-color: #f7f9fb;
+    font-size: 14px;
+}
+
+.my-login-page .brand {
+    width: 90px;
+    height: 90px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin: 0 auto;
+    margin: 40px auto;
+    box-shadow: 0 0 40px rgba(0,0,0,.05);
+}
+
+.my-login-page .brand img {
+    width: 100%;
+}
+
+.my-login-page .card-wrapper {
+    width: 340px;
+    z-index: 100;
+    color: #3a3a3a;
+}
+
+.my-login-page .card {
+    border-color: transparent;
+    box-shadow: 0 0 40px rgba(0,0,0,.05);
+}
+
+.my-login-page .card.fat {
+    padding: 17px;
+    background-color: white;
+    border-radius: 5px;
+    opacity: 0.85;
+}
+
+.my-login-page .card .card-title {
+    margin-bottom: 30px;
+}
+
+.my-login-page .form-control {
+    border-width: 2.3px;
+}
+
+.my-login-page .form-group label {
+    width: 100%;
+}
+
+.my-login-page .btn.btn-block {
+    padding: 12px 10px;
+}
+
+.my-login-page .margin-top20 {
+    margin-top: 20px;
+}
+
+.my-login-page .no-margin {
+    margin: 0;
+}
+
+.my-login-page .footer {
+    margin: 40px 0;
+    color: #e0e0e0;
+    text-align: center;
+    opacity: 0.6;
+    user-select: none
+}
+
+.botao-login {
+    background-color: #f1a64ceb;
+    color: white;
+    font-weight: 700 !important;
+}
+
+.botao-mostrar {
+    background-color: #f1a64ceb;
+    color: white;
+}

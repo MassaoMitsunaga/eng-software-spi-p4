@@ -1,0 +1,111 @@
+header {
+    text-align: center;
+}
+
+.create-edit-global-wrapper {
+    background-color: white;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+    margin-top: 9vh;
+}
+
+.cont {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cadastro-produtos-title {
+    padding-bottom: 15px;
+}
+
+.form-interno {
+    width: 95%;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #e9e9e9;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.estoque-wrap {
+    margin: auto;
+    padding-left: 70%;
+    padding-top: 10px;
+}
+
+.estoque {
+    float: left;
+    width: 80%;
+    text-align: right;
+    font-size: 15px;
+    color: #6f6f6f;
+    margin-left: -15px;
+}
+
+.checkbox {
+    margin-left: 80%;
+}
+
+.categoria-checkbox {
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+.categoria {
+    float: left;
+    width: 150px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    border: 1px solid #e9e9e9;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    color: #6f6f6f;
+    font-size: 15px;
+}
+
+.botao {
+    width: 110px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.botao-cancelar {
+    width: 110px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #e72f2feb;
+    color: white !important;
+}
+
+.cancelar {
+    float: left;
+}
+
+.enviar {
+    float: right;
+}
+
+.orienta-botao {
+    margin-top: -5px;
+}
+
+.botoes-create-edit {
+    display: inline-block;
+    width: 100%;
+}
+
+.erros {
+    text-align: center;
+    border: 1px solid red;
+    border-radius: 5px;
+    width: fit-content;
+    margin: 4vh auto;
+    background-color: #ff00000f;
+    color: #545353;
+    line-height: 10px;
+    padding: 18px 20px 8px 20px;
+}

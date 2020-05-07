@@ -1,0 +1,160 @@
+html {
+    font-family: "Segoe UI" !important;
+}
+
+body {
+    background-color: #eaeaea;
+}
+
+.global-wrapper {
+    margin-top: 11vh;
+}
+
+.wrapper {
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    padding-top: 2em;
+    width: 100%;
+}
+.plus {
+    align-content: end;
+}
+
+.add {
+    float: right;
+}
+
+.inner_add {
+    text-align: right;
+    margin-left: auto;
+    margin-right: 30px;
+}
+
+.list-title {
+    color: #17a2b8 !important;
+}
+
+button {
+    background-color: #f1a64ceb;
+    color: white;
+    border: none;
+    border-radius: 7px;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    padding-right: 1em;
+    padding-left: 1em;
+}
+
+table {
+    table-layout: auto;
+    border-collapse: collapse;
+    text-align:  center;
+    width: 100%;
+}
+
+.conteudo {
+    width: 70%;
+    display: flex;
+    padding: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main-title {
+    color: white;
+    padding-left: 25px;
+    font-size: 1.5em;
+}
+
+.header-wrapper {
+    display: block;
+}
+
+.header {
+    float: left;
+    padding-left: 2vw;
+}
+
+.table {
+    padding-top: 20px;
+}
+
+th {
+    background-color: #f1f1f1;
+}
+
+tr:nth-child(odd) {
+    background-color: #f1f1f1;
+}
+
+.table td, .table th {
+    padding: .75rem;
+}
+
+.acao {
+    width: 30%;
+    text-align: right;
+}
+
+.descricao {
+    width: 35%;
+}
+
+.edit {
+    color: #5bc0f9;
+
+}
+
+.delete {
+    color: #ff0023;
+    padding-left: 3px;
+}
+
+.paginador {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 3vh;
+}
+
+.page-item.active .page-link {
+    background-color: #f1a64ceb;
+    border-color: #f1a64ceb;
+}
+
+.page-link {
+    position: relative;
+    display: block;
+    padding: .5rem .75rem;
+    margin-left: -1px;
+    line-height: 1.25;
+    color: #939393;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+}
+
+.logo-main {
+    width: 4%;
+}
+
+.navbar-main {
+    background-color: #f1a64ceb;
+}
+
+.orienta-navbar {
+    margin-left: auto;
+    margin-right: 0;
+}
+
+.welcome-user {
+    color: rgba(255, 255, 255, 0.71) !important;
+    font-weight: 600;
+    font-size: 19px;
+}
+
+.welcome-user:hover {
+    color: white !important;
+    font-weight: 600;
+    font-size: 19px;
+}
