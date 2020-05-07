@@ -45,7 +45,7 @@
                 </div>
                 <div class="add">
                     <div class="inner_add">
-                        <a href="{{url('create')}}"><button>Novo Produto <em class="fas fa-plus-square"></em></button></a>
+                        <a href="{{url('create')}}"><button>Novo Produto <i class="fas fa-plus-square"></i></button></a>
                     </div>
                 </div>
             </div>
