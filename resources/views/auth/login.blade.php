@@ -39,7 +39,7 @@
                                             <div class="margin-bottom form-group{{ $errors->has('password') ? ' has-error' : '' }}">
                                                 <label for="password">Senha</label>
                                                 <input id="password" type="password" class="form-control" name="password" required data-eye>
-{{--                                                @if (Route::has(''))--}}
+{{--                                                @if (Route::has('password.request'))--}}
 {{--                                                    <a class="btn btn-link float-right" href="{{ route('password.request') }}">--}}
 {{--                                                        {{ __('Esqueceu a senha?') }}--}}
 {{--                                                    </a>--}}
